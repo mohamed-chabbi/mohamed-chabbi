@@ -29,10 +29,9 @@ I'm Mohamed, a 2nd-year Computer Science Engineering student.
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,git,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,git,linux&theme=light" />
   </a>
 </p>
-
 ---
 
 ### ⚙️ Tools
