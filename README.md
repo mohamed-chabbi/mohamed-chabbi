@@ -1,13 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Mohamed%20Chabbi&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-I'm Mohamed, a 2nd-year Computer Science (Informatique) Engineering student at USTHB and a passionate C & Java developer.
-
-💡 *“Building logic, systems, and ideas through code.”*
+I'm Mohamed, a 2nd-year Computer Science Engineering student.
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="55%" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60%" />
 </div>
 
 ---
