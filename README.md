@@ -7,7 +7,7 @@ I'm Mohamed, a 2nd-year Computer Science (Informatique) Engineering student at U
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="55%" />
 </div>
 
 ---
@@ -50,19 +50,6 @@ I'm Mohamed, a 2nd-year Computer Science (Informatique) Engineering student at U
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohamed-chabbi&show_icons=true&theme=radical" height="170em"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed-chabbi&theme=radical" height="170em"/>
-
----
-
-### 🧩 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-chabbi&layout=compact&theme=radical" height="170em"/>
-
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
 
 ---
 
