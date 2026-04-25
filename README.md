@@ -15,10 +15,10 @@ I'm Mohamed, a 2nd-year Computer Science (Informatique) Engineering student at U
 ### 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mohamedinfo2024@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://www.linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/mohamed-wassim-chabbi-9b201235b/">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
   <a href="https://github.com/mohamed-chabbi">
