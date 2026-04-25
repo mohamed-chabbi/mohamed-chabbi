@@ -5,7 +5,7 @@ I'm Mohamed, a 2nd-year Computer Science Engineering student.
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%" />
 </div>
 
 ---
